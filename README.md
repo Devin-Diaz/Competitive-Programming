@@ -11,7 +11,7 @@ This repository contains solutions to problems from CCSC & CCSCNE programming co
 - **CCSC (Consortium for Computing Sciences in Colleges) Contests**
   - Solutions to problems from various contests.
 - **CCSCNE (CCSC Northeast Region) Contests**
-  - Additional practice problems and solutions for preparation.
+  - Solutions to problems from various contests.
 
 ## Repository Structure
 - `/solutions` - Contains solutions to contest problems.
