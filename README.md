@@ -3,7 +3,7 @@
 This repository contains solutions to problems from CCSC & CCSCNE programming contests that my team and I participated in, along with practice problems we used to prepare. We represented **Framingham State University** in various competitive programming events.
 
 ## Team Members
-- [Devin Diaz](https://github.com/devindiaz7)
+- [Devin Diaz](https://github.com/Devin-Diaz)
 - [Bruno Barbosa](https://github.com/barbosa-bruno)
 - [William Jokic](https://github.com/UnKnownKing2020)
 
