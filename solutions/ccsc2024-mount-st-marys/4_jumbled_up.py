@@ -1,4 +1,4 @@
-# PROBELM 4 - Jumbled up
+# PROBELM 4 - Jumbled Up
 
 all_inputs_list = [] # stores sublists containing words with potential anagrams.
 
@@ -19,7 +19,6 @@ def group_anagrams(sublist_of_words):
         if sorted_word not in hashmap:
             hashmap[sorted_word] = []
         hashmap[sorted_word].append(word)
-        hashmap[sorted_word].sort()
     return hashmap
 
 # If the length of a value is only 1, it tells us we have a unique word in our sublist which is what we want.
