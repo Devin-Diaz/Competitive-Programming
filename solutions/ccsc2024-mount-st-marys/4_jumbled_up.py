@@ -36,6 +36,3 @@ for sublist in all_inputs_list:
     for unique_word in unique_words_list: # display final results
         print(unique_word)
 
-
-
-
